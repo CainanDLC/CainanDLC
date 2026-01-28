@@ -1,10 +1,10 @@
 # CainanDLC 
 
-Estudante de Ciência da Computação, com interesse em segurança da informação.  
-Atualmente focado em aprender fundamentos sólidos de programação, redes e sistemas, com ênfase em segurança ofensiva.
+Computer Science student interested in Cybersecurity.
+Currently focused on learning solid programming fundamentals and network protocols for Offensive Security..
 ---
 
-### 👾 Linguagens e tecnologias
+### 👾 Languages and Tecnologies
 <img 
     align="left"
     title="Python"
