@@ -1,7 +1,7 @@
 # CainanDLC 
 
 Computer Science student interested in Cybersecurity.
-Currently focused on learning solid programming fundamentals and network protocols for Offensive Security..
+Currently focused on learning solid programming fundamentals and network protocols for Offensive Security.
 ---
 
 ### 👾 Languages and Tecnologies
